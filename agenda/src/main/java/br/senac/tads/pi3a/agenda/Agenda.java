@@ -46,5 +46,7 @@ public class Agenda {
     public static void main(String[] args) {
         Agenda agenda = new Agenda();
         agenda.listar();
+        
+        System.out.println("Versão diferenciada.");
     }
 }
